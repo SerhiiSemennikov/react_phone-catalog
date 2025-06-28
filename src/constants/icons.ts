@@ -3,61 +3,61 @@ export const icons: Record<string, Icon> = {
   logo: {
     light: {
       title: 'Logo icon',
-      path: '../../src/images/logo.svg',
+      path: '/public/images/logo.svg',
     },
     dark: {
       title: 'Logo dark icon',
-      path: '../../src/images/logo_dark.svg',
+      path: '/public/images/logo_dark.svg',
     },
   },
   close: {
     light: {
       title: 'Close icon',
-      path: '../../src/icons/Close.svg',
+      path: '/public/icons/Close.svg',
     },
     dark: {
       title: 'Close dark icon',
-      path: '../../src/icons/close_dark.svg',
+      path: '/public/icons/close_dark.svg',
     },
   },
   close__disabled: {
     light: {
       title: 'Close icon',
-      path: '../../src/icons/close__disabled.svg',
+      path: '/public/icons/close__disabled.svg',
     },
     dark: {
       title: 'Close dark icon',
-      path: '../../src/icons/close__disabled.svg',
+      path: '/public/icons/close__disabled.svg',
     },
   },
   menu: {
     light: {
       title: 'Menu icon',
-      path: '../../src/icons/Menu.svg',
+      path: '/public/icons/Menu.svg',
     },
     dark: {
       title: 'Menu dark icon',
-      path: '../../src/icons/menu_dark.svg',
+      path: '/public/icons/menu_dark.svg',
     },
   },
   search: {
     light: {
       title: 'Search icon',
-      path: '../../src/icons/search.svg',
+      path: '/public/icons/search.svg',
     },
     dark: {
       title: 'Search dark icon',
-      path: '../../src/icons/search_dark.svg',
+      path: '/public/icons/search_dark.svg',
     },
   },
   favorites: {
     light: {
       title: 'Favorites icon',
-      path: '../../src/icons/favorites.svg',
+      path: '/public/icons/favorites.svg',
     },
     dark: {
       title: 'Favorites dark icon',
-      path: '../../src/icons/favorites_dark.svg',
+      path: '/public/icons/favorites_dark.svg',
     },
   },
   favorites__filled: {
@@ -83,17 +83,17 @@ export const icons: Record<string, Icon> = {
   arrow_left: {
     light: {
       title: 'Arrow left icon',
-      path: '../../src/icons/arrow_left.svg',
+      path: '/public/icons/arrow_left.svg',
     },
     dark: {
       title: 'Arrow left dark icon',
-      path: '../../src/icons/arrow_left_dark.svg',
+      path: '/public/icons/arrow_left_dark.svg',
     },
   },
   arrow_left__disabled: {
     light: {
       title: 'Arrow left disabled icon',
-      path: '../../src/icons/arrow_left__disabled.svg',
+      path: '/public/icons/arrow_left__disabled.svg',
     },
     dark: {
       title: 'Arrow left disabled dark icon',
@@ -117,27 +117,27 @@ export const icons: Record<string, Icon> = {
     },
     dark: {
       title: 'Arrow right disabled dark icon',
-      path: '../../src/icons/arrow_right_dark__disabled.svg',
+      path: '/public/icons/arrow_right_dark__disabled.svg',
     },
   },
   arrow_down: {
     light: {
       title: 'Arrow down icon',
-      path: '../../src/icons/arrow_down_dark.svg',
+      path: '/public/icons/arrow_down_dark.svg',
     },
     dark: {
       title: 'Arrow down dark icon',
-      path: '../../src/icons/arrow_down_dark.svg',
+      path: '/public/icons/arrow_down_dark.svg',
     },
   },
   home: {
     light: {
       title: 'Home icon',
-      path: '../../src/icons/Home.svg',
+      path: '/public/icons/Home.svg',
     },
     dark: {
       title: 'Home dark icon',
-      path: '../../src/icons/home_dark.svg',
+      path: '/public/icons/home_dark.svg',
     },
   },
 
@@ -154,21 +154,21 @@ export const icons: Record<string, Icon> = {
   minus: {
     light: {
       title: 'Minus icon',
-      path: '../../src/icons/Minus.svg',
+      path: '/public/icons/Minus.svg',
     },
     dark: {
       title: 'Minus dark icon',
-      path: '../../src/icons/minus_dark.svg',
+      path: '/public/icons/minus_dark.svg',
     },
   },
   minus__disabled: {
     light: {
       title: 'Minus icon',
-      path: '../../src/icons/minus__disabled.svg',
+      path: '/public/icons/minus__disabled.svg',
     },
     dark: {
       title: 'Minus dark icon',
-      path: '../../src/icons/MinusDarkDisabled.svg',
+      path: '/public/icons/MinusDarkDisabled.svg',
     },
   },
 };
