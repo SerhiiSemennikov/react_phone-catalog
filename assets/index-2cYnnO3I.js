@@ -1,1 +1,0 @@
-import{j as o,L as e}from"./index-B2yerjmL.js";import"http://localhost:5173/@react-refresh";const t=()=>o.jsxs("div",{className:"container",children:[o.jsx("p",{children:"Page not found"}),o.jsx(e,{to:"/",children:"Go to HomePage"})]});export{t as NotFoundPage};
